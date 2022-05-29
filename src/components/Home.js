@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 function Home(props) {
   return (
@@ -7,7 +7,7 @@ function Home(props) {
         {props.name} is a Web Developer from {props.city}
       </h1>
     </div>
-  );
+  )
 }
 
-export default Home;
+export default Home
